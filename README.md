@@ -1,6 +1,6 @@
 # Мой первый репозиторий
 
-# ADD NEW TEXT
+# ADD NEW TEXT  add english text
 
 ** Редактировал в браузере
 
